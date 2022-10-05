@@ -1,0 +1,161 @@
+.header{
+
+    color: white;
+    font-weight: bold;
+    background-color: #4C1D95;
+    padding: 0.5rem;
+    border-bottom-left-radius: 1rem;
+    
+}
+
+.header-two{
+
+    padding: 0rem;
+    color: white;
+    text-decoration: none;
+}
+
+.ordered-list{
+
+text-align: right;
+
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+
+}
+
+
+.inline-item-list{
+
+    display: inline;
+    padding: 1rem;
+    margin-left: auto;
+    font-size: large;
+}
+
+.ordered-list{
+
+    margin: auto;
+    padding: 2rem;
+}
+
+.image{
+
+    max-width:500px;
+    display: block;
+    margin: auto;
+
+
+}
+
+.container{
+
+    font-weight: bold;
+    color: #475569;
+    display: block;
+    margin: auto;
+    padding: 3rem;
+}
+
+.adarsh{
+
+    text-align: center;
+    
+    
+}
+
+.container-three{
+
+    color:#4C1D95;
+}
+
+.section{
+    background-color:#E0F2FE;
+    padding: 2rem;
+    margin: 5rem;
+}
+
+.section-heading{
+
+    text-align: center;
+}
+
+.section .paragraph{
+
+    padding: 1rem;
+    
+    text-align: center;
+}
+
+.projects{
+
+    background-color: white;
+    padding: 1rem;
+    margin: 5rem;
+}
+
+.projects-heading{
+
+    text-align: center;
+    
+}
+
+.projects .under{
+
+    text-align: center;
+    padding: 1rem;
+}
+
+.blogs{
+
+    background-color:#E0F2FE ;
+    margin: 5rem;
+    padding: 1rem;
+
+}
+
+.blogs-heading{
+
+    text-align: center;
+}
+
+.blogs .under{
+
+    text-align: center;
+    padding: 1rem;
+}
+
+.footer{
+padding: 1rem;
+    background-color: #4C1D95;
+    border-top-right-radius: 1rem;
+}
+
+
+.footer-heading{
+color: white;
+text-align: center;
+    
+}
+
+.inline-footer{
+
+    display: inline;
+    padding: 1rem;
+    color: white;
+    
+}
+
+
+.sites{
+
+    color: white;
+    text-decoration: none;
+}
+.footer-align{
+
+    text-align: center;
+}
