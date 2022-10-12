@@ -47,7 +47,7 @@ text-align: right;
 .heading{
 
     text-align: center;
-    padding: 5rem;
+    padding: 4rem;
     font-size: larger;
 
 }
@@ -55,6 +55,7 @@ text-align: right;
 .heading-two{
 
     color: #475569;
+    
 }
 
 .heading-three{
@@ -64,7 +65,7 @@ text-align: right;
 
 .section{
     
-    padding: 2rem;
+    
     margin: 5rem;
     text-align: center;
     font-size: larger;
@@ -74,13 +75,16 @@ text-align: right;
 .section-link{
 
     background-color: #4C1D95;
-    border-radius: 1rem;
+    border-radius: 1.5rem;
     font-size: larger;
     text-decoration: none;
     color: white;
+    padding: 0.8rem;
     
     
 }
+
+
 
 .footer{
     padding: 1rem;
